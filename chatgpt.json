@@ -22,7 +22,13 @@
         ".oaistatic.com",
         ".stripe.com",
         ".arkoselabs.com",
-        ".openaiapi-site.azureedge.net"
+        ".openaiapi-site.azureedge.net",
+        ".apis.google.com"
+      ],
+      "domain_keyword":[
+        "generativelanguage",
+        "colab",
+        "developerprofiles"
       ]
     }
   ]
